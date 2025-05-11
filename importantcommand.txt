@@ -1,0 +1,7 @@
+// clear all over gradle and 
+rm -rf ~/.gradle
+rm -rf android/.gradle
+rm -rf android/.idea
+rm -rf android/build
+rm -rf android/app/build
+npm run cleanandroid
